@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5985d3dd-fa1e-4ca7-b662-ce9533409e19": {
+      "ProjectGuid": "5985d3dd-fa1e-4ca7-b662-ce9533409e19",
+      "DisplayName": "SDIManagementSystem.Business",
+      "ColorIndex": 0
+    },
+    "14e345b8-66d3-4c59-ad62-e5ffaf9442be": {
+      "ProjectGuid": "14e345b8-66d3-4c59-ad62-e5ffaf9442be",
+      "DisplayName": "SDIManagementSystem.Data",
+      "ColorIndex": 1
+    },
+    "b1bb6e40-839c-4022-a81a-4ed9cc0e314b": {
+      "ProjectGuid": "b1bb6e40-839c-4022-a81a-4ed9cc0e314b",
+      "DisplayName": "SDIManagementSystem.UI",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

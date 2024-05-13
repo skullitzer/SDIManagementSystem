@@ -1,0 +1,12 @@
+C:\Users\VARAD\source\repos\SDIManagementSystem\SDIManagementSystem.Business\bin\Debug\net6.0\SDIManagementSystem.Business.deps.json
+C:\Users\VARAD\source\repos\SDIManagementSystem\SDIManagementSystem.Business\bin\Debug\net6.0\SDIManagementSystem.Business.dll
+C:\Users\VARAD\source\repos\SDIManagementSystem\SDIManagementSystem.Business\bin\Debug\net6.0\ref\SDIManagementSystem.Business.dll
+C:\Users\VARAD\source\repos\SDIManagementSystem\SDIManagementSystem.Business\bin\Debug\net6.0\SDIManagementSystem.Business.pdb
+C:\Users\VARAD\source\repos\SDIManagementSystem\SDIManagementSystem.Business\obj\Debug\net6.0\SDIManagementSystem.Business.csproj.AssemblyReference.cache
+C:\Users\VARAD\source\repos\SDIManagementSystem\SDIManagementSystem.Business\obj\Debug\net6.0\SDIManagementSystem.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VARAD\source\repos\SDIManagementSystem\SDIManagementSystem.Business\obj\Debug\net6.0\SDIManagementSystem.Business.AssemblyInfoInputs.cache
+C:\Users\VARAD\source\repos\SDIManagementSystem\SDIManagementSystem.Business\obj\Debug\net6.0\SDIManagementSystem.Business.AssemblyInfo.cs
+C:\Users\VARAD\source\repos\SDIManagementSystem\SDIManagementSystem.Business\obj\Debug\net6.0\SDIManagementSystem.Business.csproj.CoreCompileInputs.cache
+C:\Users\VARAD\source\repos\SDIManagementSystem\SDIManagementSystem.Business\obj\Debug\net6.0\SDIManagementSystem.Business.dll
+C:\Users\VARAD\source\repos\SDIManagementSystem\SDIManagementSystem.Business\obj\Debug\net6.0\ref\SDIManagementSystem.Business.dll
+C:\Users\VARAD\source\repos\SDIManagementSystem\SDIManagementSystem.Business\obj\Debug\net6.0\SDIManagementSystem.Business.pdb

@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SDIManagementSystem.UI/1.0.0": {
+        "dependencies": {
+          "SDIManagementSystem.Business": "1.0.0",
+          "SDIManagementSystem.Data": "1.0.0"
+        },
+        "runtime": {
+          "SDIManagementSystem.UI.dll": {}
+        }
+      },
+      "SDIManagementSystem.Business/1.0.0": {
+        "runtime": {
+          "SDIManagementSystem.Business.dll": {}
+        }
+      },
+      "SDIManagementSystem.Data/1.0.0": {
+        "dependencies": {
+          "SDIManagementSystem.Business": "1.0.0"
+        },
+        "runtime": {
+          "SDIManagementSystem.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SDIManagementSystem.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SDIManagementSystem.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SDIManagementSystem.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
